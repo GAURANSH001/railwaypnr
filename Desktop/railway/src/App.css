@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+.img{
+background-image: url(https://images.news18.com/ibnlive/uploads/2019/04/Happy-Anniversary-of-Indian-Railways-Rare-Photos.jpg);
+}
+.align{
+  text-align: center;
+}
